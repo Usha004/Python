@@ -1,25 +1,30 @@
-# import another_module
-# print(another_module.another_variable)
-#
-# from turtle import Turtle,Screen
-# """constructing an object using inbuilt class turtle"""
-# timmy = Turtle()
-# print(timmy)
-# """here timmy is an object which we crated using the class Turtle()"""
-# timmy.shape("turtle")
-# timmy.color("coral")
-#
-# my_screen = Screen()
-# print(my_screen.canvheight)
-# my_screen.exitonclick()
+class User:
+    """Initilize attributes"""
+    def __init__(self,user_id,username):
+        self.id = user_id
+        self.username = username
+        self.followers = 0
+        self.following = 0
 
-from prettytable import PrettyTable
-table = PrettyTable()
-table.add_column("pokomon Name",["Pikachu","Squirtle","Charmander"])
-table.add_column("Type",["Electric","Water","Fire"])
+    def follow(self,user):
+        user.followers += 1
+        self.following += 1
 
-table.align = "l"
-print(table)
+user_1 = User("123" , "Usha")
+user_2 = User("457" , "Angela")
+
+user_1.follow(user_1)
+print(user_1.followers)
+print(user_1.following)
+print(user_2.followers)
+print(user_2.following)
+
+
+
+
+
+
+
 
 
 
