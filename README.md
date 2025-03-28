@@ -20,7 +20,6 @@ Welcome to my **100 Days of Python** journey! 🚀 This repository contains my d
 5. **Treasure Island Adventure** 🏝️  
    - Concepts: Input functions, nested if statements, and if-else conditions.
 
-### 🎮 Intermediate-Level Projects:
 6. **Rock, Paper, Scissors Game** ✊✋✌️  
    - Concepts: Input functions, `random` module, if-else conditions.
 
@@ -33,7 +32,6 @@ Welcome to my **100 Days of Python** journey! 🚀 This repository contains my d
 9. **Hangman Game** ✏️  
    - Concepts: Import modules, input functions, `random` module, lists, while loops, for loops, and f-strings.
 
-### 🧠 Advanced-Level Projects:
 10. **Caesar Cipher Game** 🔢  
    - Concepts: Import modules, input functions, functions with `def`, positional and keyword arguments, lists, for loops, if statements, while loops, and f-strings.
 
@@ -43,4 +41,15 @@ Welcome to my **100 Days of Python** journey! 🚀 This repository contains my d
 12. **Calculator Project** 🧮  
    - Concepts: Import modules, input functions, `def` functions, return values, while loops, for loops, f-strings, and if-else statements.
 
-13. 
+13. **BlackJack Project** ♠️🃏
+    -Concepts: Import modules, def functions with arguments, random functions, conditional statements (if-else), range functions, lists, for loops, while loops, f-strings, input functions, and append.
+
+14. **Number Guessing Project** 🎭
+    -Concepts: Import function, def functions with arguments, random modules, while loops, lists, conditional statements, input functions, return functions, and f-strings.
+
+15. **Higher or Lower Project** 📊🏋️
+    -Concepts: def functions with arguments, while loops, random module, import module, dictionaries, f-strings, input functions, conditional statements, lists, and return functions.
+
+I will Update the next repository as I complete new projects. Stay tuned for more exciting Python adventures! 🚀
+### 🧠 Advanced-Level Projects:
+### 🎮 Intermediate-Level Projects:
